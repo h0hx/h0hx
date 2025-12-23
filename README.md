@@ -1,36 +1,21 @@
-# Hello, I'm Blake 🚀
+# Hello, I’m Blake 👋
 
 Welcome to my GitHub profile!
 
-👋 I'm Blake, a Computer Information Technology (CIT) student, an aspiring Go programmer, and a passionate cybersecurity enthusiast.
+I am part of the 𝒟𝒪𝒟 (𝒟𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉 𝑜𝒻 𝒟𝑒𝒻𝑒𝓃𝓈𝑒) and work as a 𝒯𝒾𝑒𝓇 𝟣 𝒜𝓃𝒶𝓁𝓎𝓈𝓉.
 
-## About Me
+I’ve been deeply involved in technology since childhood. Growing up around computers sparked a long-term passion for security, problem-solving, and building systems that help make the world a safer place. I enjoy working on security-focused projects, analyzing threats, and continuously improving my technical skill set.
 
-🌱 I'm currently embarking on a journey to become a proficient Go programmer, learning the intricacies of this powerful language.
-🔒 My heart lies in the fascinating world of cybersecurity, where I'm constantly exploring and learning to keep digital spaces secure.
+I’m also a software developer who codes regularly in my free time. I enjoy learning new technologies, experimenting with ideas, and building tools simply for the challenge and growth. I’m on a continuous journey to learn anything and everything the tech world has to offer.
 
-## What I'm Currently Learning
+Currently, I’m becoming a proficient Go (Golang) programmer, with a strong interest in security-oriented development, backend systems, and performance-driven software.
 
-💻 As a CIT student, I'm diving deep into the exciting realms of computer hardware, software, and networking components.
-🌐 My studies revolve around understanding how the digital world connects, operates, and stays secure.
-
-## Connect with Me
-
-📫 Feel free to reach out to me through my GitHub profile.
-📚 I'm eager to connect with fellow learners, developers, and cybersecurity enthusiasts.
-
-## Inclusivity and Security
-
-🔐 I firmly believe in the importance of creating a secure and inclusive digital environment. I'm an advocate for cybersecurity awareness and inclusivity in tech.
-🌐 Cybersecurity and digital privacy are not just my passions but my mission.
-
-## Go Projects
-
-🚀 As I explore the Go programming language, you'll find my projects below. I'm constantly working to improve and expand my skills.
-
-Thanks for visiting my profile! Let's embark on this exciting journey together. 🚀
-
-
+## Focus Areas
+- Cybersecurity & Threat Analysis  
+- Software Development  
+- Go (Golang)  
+- Security Tooling & Automation  
+- Continuous Learning
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
