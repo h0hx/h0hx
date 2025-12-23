@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I am part of the 𝒟𝒪𝒟 (𝒟𝑒𝓅𝒶𝓇𝓉𝓂𝑒𝓃𝓉 𝑜𝒻 𝒟𝑒𝒻𝑒𝓃𝓈𝑒) and work as a 𝒯𝒾𝑒𝓇 𝟣 𝒜𝓃𝒶𝓁𝓎𝓈𝓉.
+I am part of DoD (Department of Defense) working as a Tier 1 Analyst.
 
 I’ve been deeply involved in technology since childhood. Growing up around computers sparked a long-term passion for security, problem-solving, and building systems that help make the world a safer place. I enjoy working on security-focused projects, analyzing threats, and continuously improving my technical skill set.
 
